@@ -1,6 +1,4 @@
-# ROS 2 Health Monitor Assignment
-
-## Assignment Submission for Roboteam
+# ROS 2 Health Monitor 
 
 ## Overview
 
