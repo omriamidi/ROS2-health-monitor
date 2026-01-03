@@ -37,4 +37,13 @@ def generate_launch_description():
             output='screen',
             emulate_tty=True
         ),
+
+        # Health History
+        Node(
+            package='health_monitor',
+            executable='health_history_service',
+            name='health_history_service',
+            output='screen',
+            emulate_tty=True
+        ),
     ])
